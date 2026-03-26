@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/plugins-13-blue" alt="13 Plugins" />
-  <img src="https://img.shields.io/badge/categories-8-green" alt="8 Categories" />
+  <img src="https://img.shields.io/badge/plugins-14-blue" alt="14 Plugins" />
+  <img src="https://img.shields.io/badge/categories-9-green" alt="9 Categories" />
   <img src="https://img.shields.io/badge/platform-Claude_Code-8A2BE2" alt="Claude Code" />
   <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT" />
 </p>
@@ -55,6 +55,7 @@ Then install any plugin:
 | Plugin | Install | What It Does |
 |--------|---------|-------------|
 | **[memoriant-env-bootstrap-skill](https://github.com/NathanMaine/memoriant-env-bootstrap-skill)** | `/install NathanMaine/memoriant-env-bootstrap-skill` | Scans a project folder and generates a bootstrap script and onboarding checklist for new developer environments. |
+| **[memoriant-screen-recorder-skill](https://github.com/NathanMaine/memoriant-screen-recorder-skill)** | `/install NathanMaine/memoriant-screen-recorder-skill` | Screen recording from Claude Code. Guided 6-step flow: preflight check, window picker (lists all open windows), save location, record, format selection (video/GIF/both). Records specific windows via ffmpeg real-time crop. |
 
 ### Testing & Performance
 
