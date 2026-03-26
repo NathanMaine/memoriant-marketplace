@@ -77,6 +77,12 @@
       "version": "1.0.0",
       "source": "github:NathanMaine/memoriant-mcp-data-skill",
       "category": "Data & Integration"
+    },
+    {
+      "name": "memoriant-screen-recorder",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-screen-recorder-skill",
+      "category": "Developer Experience"
     }
   ]
 }
