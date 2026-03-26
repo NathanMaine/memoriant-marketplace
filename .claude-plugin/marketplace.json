@@ -1,0 +1,82 @@
+{
+  "plugins": [
+    {
+      "name": "memoriant-patent-skills",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-patent-skills",
+      "category": "Legal & IP"
+    },
+    {
+      "name": "memoriant-test-coverage-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-test-coverage-skill",
+      "category": "Code Quality"
+    },
+    {
+      "name": "memoriant-architecture-review-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-architecture-review-skill",
+      "category": "Architecture"
+    },
+    {
+      "name": "memoriant-docforce-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-docforce-skill",
+      "category": "Documentation"
+    },
+    {
+      "name": "memoriant-env-bootstrap-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-env-bootstrap-skill",
+      "category": "Developer Experience"
+    },
+    {
+      "name": "memoriant-perf-test-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-perf-test-skill",
+      "category": "Testing & Performance"
+    },
+    {
+      "name": "memoriant-eval-sandbox-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-eval-sandbox-skill",
+      "category": "AI Agent Testing"
+    },
+    {
+      "name": "memoriant-llm-gateway-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-llm-gateway-skill",
+      "category": "Compliance & Security"
+    },
+    {
+      "name": "memoriant-temporal-planner-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-temporal-planner-skill",
+      "category": "Planning & Orchestration"
+    },
+    {
+      "name": "memoriant-governance-compiler-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-governance-compiler-skill",
+      "category": "Compliance & Security"
+    },
+    {
+      "name": "memoriant-voice-test-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-voice-test-skill",
+      "category": "Testing & Performance"
+    },
+    {
+      "name": "memoriant-ops-bot-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-ops-bot-skill",
+      "category": "DevOps & Operations"
+    },
+    {
+      "name": "memoriant-mcp-data-skill",
+      "version": "1.0.0",
+      "source": "github:NathanMaine/memoriant-mcp-data-skill",
+      "category": "Data & Integration"
+    }
+  ]
+}
